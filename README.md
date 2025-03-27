@@ -2,9 +2,9 @@ Tecnologia Travesty: Mapeando Corpas Trans Na Paraíba
 
 INTRODUÇÃO
 
-Estamos em um mundo que está inundado por dados, onde dispositivos geram uma quantidade massiva de dados a cada segundo. Todavia, Carvalho e Barreto (2019) falam sobre a escassez de dados de pessoas LGBTQIA+1, essa escassez se intensifica quando é falado de pessoas transvestigêneres2.
+Estamos em um mundo que está inundado por dados, onde dispositivos geram uma quantidade massiva de dados a cada segundo. Todavia, Carvalho e Barreto (2019) falam sobre a escassez de dados de pessoas LGBTQIA+, essa escassez se intensifica quando é falado de pessoas transvestigêneres.
 
-A ABLGT3 (2024) aponta a ausência do estado na sistematização e produção de dados de certos grupos sociais, como é o caso da população Trans. Ademais, destaca a  carência de mecanismos de produção, sistematização e publicização de dados de determinados grupos no interior da máquina estatal que contribui para a invisibilização e apagamento desses grupos, essa invisibilização estatística força a própria sociedade civil a se organizar e obter esses dados.
+A ABLGT (2024) aponta a ausência do estado na sistematização e produção de dados de certos grupos sociais, como é o caso da população Trans. Ademais, destaca a  carência de mecanismos de produção, sistematização e publicização de dados de determinados grupos no interior da máquina estatal que contribui para a invisibilização e apagamento desses grupos, essa invisibilização estatística força a própria sociedade civil a se organizar e obter esses dados.
 
 O Ministério da Cidadania (2022) afirma a importância de ter informações para que políticas públicas possam ser direcionadas e conseguir garantir direitos sociais. Se não, direcionar políticas públicas sem o uso de dados é algo perigoso por não saber o que se quer atingir, onde se quer chegar e o que é necessário, podendo causar prejuízos e frustrações à sociedade civil.
 
@@ -26,7 +26,7 @@ Trata-se de um estudo quantitativo que terá como campo o estado da Paraíba. A 
 
 Sendo assim, a divulgação do questionário será feita a partir de redes sociais (Instagram e Whatsapp), em formato de cartazes com QRcode, que serão colocados em lugares estratégicos que possuam fluxo de pessoas trans. Ademais, parcerias com instituições, ONG’s e coletivos que possuam relação com pessoas trans serão desenvolvidas, com o intuito de impulsionar a divulgação e atingir as mais diversas cidades da Paraíba.
 
-O banco de dados será desenvolvido utilizando a versão mais recente do MySQL, um SGBD4 , que facilitará a construção do banco de dados, o tratamento e a análise dos dados. A manipulação e publicização dos dados acontecerá de acordo com os princípios da lei nº 13709/2018, que define as diretrizes do uso e coleta de dados de terceiros no Brasil.
+O banco de dados será desenvolvido utilizando a versão mais recente do MySQL, um SGBD , que facilitará a construção do banco de dados, o tratamento e a análise dos dados. A manipulação e publicização dos dados acontecerá de acordo com os princípios da lei nº 13709/2018, que define as diretrizes do uso e coleta de dados de terceiros no Brasil.
 
 REFERÊNCIAS
 
