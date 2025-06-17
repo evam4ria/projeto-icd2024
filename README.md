@@ -1,4 +1,4 @@
-Tecnologia Travesty: Mapeando Corpas Trans Na Paraíba
+Tecnologia Travestigênere: Mapeando Corpas Trans Na Paraíba
 
 INTRODUÇÃO
 
